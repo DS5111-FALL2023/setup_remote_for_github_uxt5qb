@@ -50,6 +50,7 @@ user.email=efrainolivaresuva@gmail.com
 
 Screenshots:
 ![remote setup] (https://imgur.com/yT5JiVl)
+![remote setup] (https://i.imgur.com/sGlPhw1.png)
 ![git config] (https://imgur.com/xeOs2Wy)
 ![ssh -T] (https://imgur.com/xeOs2Wy)
 ![ssh ls] (https://imgur.com/jzMXB6c)
