@@ -16,7 +16,7 @@ AWS_PEM_KEY_PATH=~/.ssh/ollie.pem
 if [ -z "$AWS_PEM_KEY_PATH" ];then echo "AWS_PEM_KEY_PATH is empty!"; exit 1; fi
 
 # This one needs the full PATH
-GH_KEY_PATH=~/.ssh/id_ed25519
+GH_KEY_PATH=~/.ssh/id_ed25519.pub
 if [ -z "$GH_KEY_PATH" ];then echo "GH_KEY_PATH is empty!"; exit 1; fi
 
 # This is just the NAME of your github ssh key
