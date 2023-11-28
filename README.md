@@ -49,9 +49,8 @@ user.email=efrainolivaresuva@gmail.com
 
 
 Screenshots:
-![remote setup] (https://imgur.com/yT5JiVl)
 ![remote setup] (https://i.imgur.com/sGlPhw1.png)
-![git config] (https://imgur.com/xeOs2Wy)
-![ssh -T] (https://imgur.com/xeOs2Wy)
-![ssh ls] (https://imgur.com/jzMXB6c)
-![config file] (https://imgur.com/sGlPhw1)
+![git config] (https://i.imgur.com/RSV8xHD.png)
+![ssh -T] (https://i.imgur.com/xeOs2Wy.png)
+![ssh ls] (https://i.imgur.com/jzMXB6c.png)
+![config file] (https://i.imgur.com/yT5JiVl.png)
